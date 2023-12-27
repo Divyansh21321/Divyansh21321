@@ -23,33 +23,34 @@ Hello There, 👋 I'm Divyansh
 
 <p align="left">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="45" height="45" alt="React" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-dark.svg" width="45" height="45" alt="Express" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="45" height="45" alt="NodeJS" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="45" height="45" alt="MongoDB" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-dark.svg" width="45" height="45" alt="Express" /></a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="45" height="45" alt="Material UI" /></a>
 <a href="https://threejs.org/" target="_blank" rel="noreferrer"><img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" width="45" height="45" alt="Three.js" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="45" height="45" alt="MySQL" /></a>
 <a href="https://sequelize.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/97445947/268622758-f42dab55-46e4-4b08-ab45-9ac245d03eb3.png" width="45" height="50" alt="Sequelize" /></a>&nbsp;
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="45" height="45" alt="JQuery" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="45" height="45" alt="Sass" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="45" height="45" alt="TailwindCSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="45" height="45" alt="Bootstrap" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="45" height="45" alt="Sass" /></a>
 <a href="https://materializecss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="45" height="45"/></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="45" height="45" alt="Material UI" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="45" height="45" alt="Bootstrap" /></a>
 </p>
 
 #### Design
 
 <p align="left">
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="45" height="45" alt="Photoshop" /></a>
+
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" width="45" height="45" alt="Premiere Pro" /></a>
 <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" width="45" height="45" alt="After Effects" /></a>
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="45" height="45" alt="Photoshop" /></a>
 <a href="https://www.adobe.com/in/products/xd.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" width="45" height="45" alt="XD" /></a>
-<a href="https://www.adobe.com/in/products/indesign.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg" width="45" height="45" alt="InDesign" /></a>
 <a href="adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" width="45" height="45" alt="Illustrator" /></a>
-<a href="https://miro.com/" target="_blank" rel="noreferrer"><img src="https://asset.brandfetch.io/idAnDTFapY/idYC5f2L1X.png" width="45" height="45" alt="Miro" /></a>
-<a href="https://www.autodesk.in/products/fusion-360/overview" target="_blank" rel="noreferrer"><img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_08cbb05caf3271616f7fef03768dfbf5/fusion-360.png" alt="fusion 360" width="45" height="45"/></a>
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="blender" width="45" height="45"/></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="45" height="45" alt="Figma" /></a>
+<a href="https://www.adobe.com/in/products/indesign.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg" width="45" height="45" alt="InDesign" /></a>
+<a href="https://www.autodesk.in/products/fusion-360/overview" target="_blank" rel="noreferrer"><img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_08cbb05caf3271616f7fef03768dfbf5/fusion-360.png" alt="fusion 360" width="45" height="45"/></a>
+<a href="https://miro.com/" target="_blank" rel="noreferrer"><img src="https://asset.brandfetch.io/idAnDTFapY/idYC5f2L1X.png" width="45" height="45" alt="Miro" /></a>
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="blender" width="45" height="45"/></a>
 <a href="https://www.protopie.io/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/P/protopie-logo-A51D8D3BEE-seeklogo.com.png" width="42" height="42" alt="ProtoPie" /></a>
 </p>
 
@@ -63,10 +64,10 @@ Hello There, 👋 I'm Divyansh
 
 ## Badges
 
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Diyansh21321&show_icons=true&count_private=true&title_color=6456f1&text_color=ffffff&icon_color=6456f1&bg_color=1c1917&hide_border=true" alt="Diyansh21321's GitHub stats" /></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Divyansh21321&show_icons=true&count_private=true&title_color=6456f1&text_color=ffffff&icon_color=6456f1&bg_color=#441917&hide_border=true" alt="Divyansh21321's GitHub stats" /></a>
 
-<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Diyansh21321&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Divyansh21321&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="#" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diyansh21321&langs_count=20&title_color=ffffff&text_color=ffffff&icon_color=6456f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=donut" alt="Top Languages" /></a>
+<a href="#" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh21321&langs_count=20&title_color=ffffff&text_color=ffffff&icon_color=6456f1&bg_color=#441917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=donut" alt="Top Languages" /></a>
 
-<a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Diyansh21321&bg_color=1c1917&color=ffffff&line=6456f1&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyansh21321&bg_color=1c1917&color=ffffff&line=6456f1&point=ffffff&area_color=#441917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
