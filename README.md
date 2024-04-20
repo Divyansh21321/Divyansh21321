@@ -56,6 +56,16 @@ Hello There, 👋 I'm Divyansh
 <a href="https://www.protopie.io/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/P/protopie-logo-A51D8D3BEE-seeklogo.com.png" width="42" height="42" alt="ProtoPie" /></a>
 </p>
 
+#### Distributed Computing
+
+<p align="left">
+<a href="https://grpc.io/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/OnlineShoppingPlatform-using-gRPC/assets/96881807/4f1a5d76-cc79-448b-91b1-2bad3a464333" alt="gRPC" width="45" height="45"/></a>
+<a href="https://protobuf.dev/" target="_blank" rel="noreferrer"><img src="https://www.techunits.com/wp-content/uploads/2021/07/pb.png" height="45" alt="protobuf" />
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/google-cloud-icon-1024x823-wiwlyizc.png" height="42" alt="Google Cloud" /></a>&nbsp;
+<a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/RabbitMQ_logo.svg/1200px-RabbitMQ_logo.svg.png" height="30" alt="RabbitMQ" /></a>&nbsp;
+<a href="https://zeromq.org/" target="_blank" rel="noreferrer"><img src="https://vmssoftware.com/images/intro/product/zeromq.png" height="30" alt="ZeroMQ" /></a>
+</p>
+
 #### Other
 
 <p align="left">
