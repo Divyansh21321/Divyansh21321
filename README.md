@@ -12,8 +12,8 @@ Hello There, 👋 I'm Divyansh
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="45" height="45" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="45" height="45" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="45" height="45" alt="CSS3" /></a>
-<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/latex-icon-2014x2048-wyowdlpa.png" width="45" height="45" alt="LaTeX" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="45" height="45" alt="TypeScript" /></a>
+<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Languages/LaTeX.png" width="45" height="45" alt="LaTeX" title="LaTeX" /></a>
+ <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="45" height="45" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="45" height="45" alt="JavaScript" /></a>
 
 </p>
@@ -34,6 +34,7 @@ Hello There, 👋 I'm Divyansh
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="45" height="45" alt="JQuery" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="45" height="45" alt="TailwindCSS" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="45" height="45" alt="Sass" /></a>
+<a href="https://threejs.org/" target="_blank" rel="noreferrer" title="Three.js"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/Threejs.png" width="45" height="45" alt="Three.js" /></a>
 <a href="https://materializecss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="45" height="45"/></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="45" height="45" alt="Bootstrap" /></a>
 </p>
@@ -59,8 +60,8 @@ Hello There, 👋 I'm Divyansh
 
 <p align="left">
 <a href="https://grpc.io/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/OnlineShoppingPlatform-using-gRPC/assets/96881807/4f1a5d76-cc79-448b-91b1-2bad3a464333" alt="gRPC" width="45" height="45"/></a>
-<a href="https://protobuf.dev/" target="_blank" rel="noreferrer"><img src="https://www.techunits.com/wp-content/uploads/2021/07/pb.png" height="45" alt="protobuf" />
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/google-cloud-icon-1024x823-wiwlyizc.png" height="42" alt="Google Cloud" /></a>&nbsp;
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer" title="Google Cloud"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Distributed%20Systems%20and%20Cloud/GoogleCloud.png" height="42" alt="Google Cloud" /></a>&nbsp;
+<a href="https://protobuf.dev/" target="_blank" rel="noreferrer" title="Protobuf"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Distributed%20Systems%20and%20Cloud/Protobuf.png" width="64" height="38" alt="Protobuf" /></a>&nbsp;
 <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/RabbitMQ_logo.svg/1200px-RabbitMQ_logo.svg.png" height="30" alt="RabbitMQ" /></a>&nbsp;
 <a href="https://zeromq.org/" target="_blank" rel="noreferrer"><img src="https://vmssoftware.com/images/intro/product/zeromq.png" height="30" alt="ZeroMQ" /></a>
 </p>
